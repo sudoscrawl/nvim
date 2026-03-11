@@ -7,7 +7,7 @@ return {
   },
   config = function()
     require("mason-lspconfig").setup {
-      ensure_installed = { "pyright", "html", "somesass_ls" },
+      ensure_installed = { "zls", "pyright", "html", "somesass_ls" },
       automatic_enable = true,
     }
   end
