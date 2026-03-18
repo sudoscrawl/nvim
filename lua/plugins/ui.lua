@@ -11,10 +11,11 @@ return {
               },
             },
           },
+          files = {
+            hidden = true,
+            ignored = true,
+          },
         },
-        files = {
-          hidden = true
-        }
       },
       dashboard = {
         preset = {
