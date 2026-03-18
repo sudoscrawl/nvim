@@ -8,9 +8,12 @@ return {
             layout = {
               layout = {
                 width = 25,
-              }
-            }
-          }
+              },
+            },
+          },
+        },
+        files = {
+          hidden = true
         }
       },
       dashboard = {
